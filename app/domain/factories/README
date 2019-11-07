@@ -1,0 +1,3 @@
+Factory makes aggregate that satisfies client and internal rules.
+
+Client specifies what it wants ( parameters ). Factory returns an aggregate.
